@@ -1,0 +1,15 @@
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\bin\Debug\net6.0\JogoRPG.exe
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\bin\Debug\net6.0\JogoRPG.deps.json
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\bin\Debug\net6.0\JogoRPG.runtimeconfig.json
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\bin\Debug\net6.0\JogoRPG.dll
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\bin\Debug\net6.0\JogoRPG.pdb
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.AssemblyReference.cache
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfoInputs.cache
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfo.cs
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\JogoRPG.dll
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\refint\JogoRPG.dll
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\JogoRPG.pdb
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\JogoRPG.genruntimeconfig.cache
+C:\Workplace\DIO\GFT-STARTER-4\JogoRPG\obj\Debug\net6.0\ref\JogoRPG.dll
